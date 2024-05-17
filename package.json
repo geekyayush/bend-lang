@@ -1,6 +1,6 @@
 {
   "name": "bend-lang",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "Unofficial guide to Bend programming language",
   "main": "index.js",
   "scripts": {
