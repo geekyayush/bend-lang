@@ -39,3 +39,16 @@ In the next chapter, we'll walk through setting up your development environment 
 ---
 
 *Note: This guide assumes that you have a basic understanding of programming concepts. If you're completely new to programming, it might be helpful to familiarize yourself with fundamental concepts in a language like Python or Rust before diving into Bend.*
+
+
+## Contributing
+
+This is a free and open source guide to Bend programming language. You can find the source code on
+[GitHub](https://github.com/geekyayush/bend-lang) and issues can be posted on
+the [GitHub issue tracker](https://github.com/geekyayush/bend-lang/issues). It relies on the community to fix existing guides and add new guides: if you'd like to contribute, please consider opening
+a [pull request](https://github.com/geekyayush/bend-lang/pulls).
+
+## License
+
+This guide and any documentation are released under
+the [Apache-2.0 license](https://github.com/geekyayush/bend-lang?tab=Apache-2.0-1-ov-file#readme).
