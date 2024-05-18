@@ -38,6 +38,8 @@ Each chapter is designed to be self-contained, allowing readers to jump to topic
 
 This guide is an open-source project hosted on GitHub, and we welcome contributions from the Bend community. Whether it's fixing a typo, improving explanations, or adding new examples, your contributions help make this resource better for everyone.
 
+> We use [mdBook](https://github.com/rust-lang/mdBook) which generates the documentation website using markdown files. (Another awesome project from Rust community ❤️)
+
 To contribute, please:
 
 1. Fork the repository.
