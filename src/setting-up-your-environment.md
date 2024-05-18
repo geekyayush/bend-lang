@@ -62,16 +62,16 @@ mkdir bend_project
 cd bend_project
 ```
 
-Inside this directory, create a new file named `main.hvm` which will be our entry point for Bend programs.
+Inside this directory, create a new file named `main.bend` which will be our entry point for Bend programs.
 
 ```sh
-touch main.hvm
+touch main.bend
 ```
 
-Open `main.hvm` in your text editor and type in the following code:
+Open `main.bend` in your text editor and type in the following code:
 
 ```python
-# main.hvm
+# main.bend
 def main():
   return "Hello, Bend!"
 ```
@@ -81,7 +81,7 @@ def main():
 To compile and run your Bend program, you'll use the `bend` command followed by the `run` subcommand and the file name:
 
 ```sh
-bend run main.hvm
+bend run main.bend
 ```
 
 You should see the output `Hello, Bend!` in your terminal.

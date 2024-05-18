@@ -11,10 +11,10 @@ def main():
   return "Hello, World!"
 ```
 
-To run this program, save it in a file named `hello_world.hvm`. Then, execute it using the following command in your terminal:
+To run this program, save it in a file named `hello_world.bend`. Then, execute it using the following command in your terminal:
 
 ```sh
-bend run hello_world.hvm
+bend run hello_world.bend
 ```
 
 You should see the output "Hello, World!" in your console.
