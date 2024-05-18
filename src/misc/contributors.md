@@ -1,6 +1,6 @@
 # Contributors
 
-Here is a list of the contributors who have helped improving this Blend programming language guide. Big shout-out to them!
+Here is a list of the contributors who have helped improving this Bend programming language guide. Big shout-out to them!
 
 - Ayush Somani ([geekyayush](https://github.com/geekyayush))
 
