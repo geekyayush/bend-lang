@@ -1,6 +1,6 @@
 # Chapter 2: Basics of Bend
 
-Welcome to Chapter 2 of the Unofficial Bend Programming Language Handbook. This chapter is designed to introduce you to the fundamental concepts of the Bend programming language. We will cover the basics, from writing your first program to understanding the core data types and control flow mechanisms in Bend.
+Welcome to Chapter 2 of the Unofficial Bend Programming Language Guide. This chapter is designed to introduce you to the fundamental concepts of the Bend programming language. We will cover the basics, from writing your first program to understanding the core data types and control flow mechanisms in Bend.
 
 ## 2.1 Hello, World! in Bend
 

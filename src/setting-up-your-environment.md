@@ -1,6 +1,6 @@
 # Chapter 1: Setting Up Your Environment
 
-Welcome to the first chapter of "The Unofficial Bend Programming Language Handbook." This chapter will guide you through setting up your development environment to start coding in Bend. By the end of this chapter, you'll have the tools you need to write, compile, and run Bend programs on your machine.
+Welcome to the first chapter of the Unofficial Bend Programming Language Guide. This chapter will guide you through setting up your development environment to start coding in Bend. By the end of this chapter, you'll have the tools you need to write, compile, and run Bend programs on your machine.
 
 ## Installing Bend
 
