@@ -46,7 +46,7 @@ To contribute, please:
 
 ## License
 
-This guide is released under the MIT License. See `LICENSE.md` for full details.
+This guide is released under the Apache-2.0 license. See `LICENSE.md` for full details.
 
 ## Acknowledgments
 
