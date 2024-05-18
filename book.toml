@@ -1,5 +1,5 @@
 [book]
-title = "Markdown Book"
+title = "Bend Language Guide (Unofficial)"
 authors = ["{{author}}"]
 language = "en"
 multilingual = false
@@ -12,4 +12,4 @@ create-missing = false
 edition = "2021"
 
 [output.html]
-git-repository-url = "https://github.com/geekyayush/bend-langmdbook"
+git-repository-url = "https://github.com/geekyayush/bend-lang"
