@@ -5,8 +5,8 @@
 
 # Chapters
 
-- [Setting Up Your Environment](1-setting-up-your-environment.md)
-- [Basics of Bend](2-basics-of-bend.md)
+- [Setting Up Your Environment](setting-up-your-environment.md)
+- [Basics of Bend](basics-of-bend.md)
 
 -----------
 
