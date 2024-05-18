@@ -1,6 +1,6 @@
 {
   "name": "bend-lang",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Unofficial guide to Bend programming language",
   "scripts": {
     "build": "mdbook build",
