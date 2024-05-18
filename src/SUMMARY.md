@@ -14,6 +14,12 @@
 - [Parallelism in Bend]()
 - [Error Handling]()
 - [Memory Management]()
+- [Interacting with the System]()
+- [Bend and GPUs]()
+- [The Bend Standard Library]()
+- [Testing Your Bend Code]()
+- [Real-World Bend Projects]()
+- [Contributing to Bend]()
 
 -----------
 
