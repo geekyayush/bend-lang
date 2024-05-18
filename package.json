@@ -2,10 +2,17 @@
   "name": "bend-lang",
   "version": "0.0.3",
   "description": "Unofficial guide to Bend programming language",
-  "main": "index.js",
   "scripts": {
+    "build": "mdbook build",
+		"start": "mdbook serve",
+		"lint": "markdownlint-cli2 \"*/**.md\" \"#node_modules\"",
+		"lint:fix": "npm run lint -- --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+		"markdownlint-cli2": "^0.13.0",
+		"markdownlint-config-neoncitylights": "^0.3.0"
+	}
 }

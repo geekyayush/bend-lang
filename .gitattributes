@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Make Linguist include Markdown in stats
+# https://github.com/github-linguist/linguist/blob/master/docs/overrides.md
+*.md linguist-detectable

@@ -1,0 +1,15 @@
+[book]
+title = "Markdown Book"
+authors = ["{{author}}"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+create-missing = false
+
+[rust]
+edition = "2021"
+
+[output.html]
+git-repository-url = "https://github.com/geekyayush/bend-langmdbook"
