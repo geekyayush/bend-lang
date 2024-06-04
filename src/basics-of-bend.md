@@ -49,9 +49,9 @@ Control flow in Bend allows you to make decisions in your code. The `if` stateme
 ```python
 def is_even(number):
   if number % 2 == 0:
-    return true
+    return "true"
   else:
-    return false
+    return "false"
 
 def main():
   return is_even(10)
