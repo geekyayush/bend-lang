@@ -8,29 +8,18 @@ Before we can start writing Bend code, we need to install the Bend compiler and 
 
 ### Step 1: Install Rust
 
-Bend requires the Rust programming language's nightly version. To install Rust, follow these steps:
+Bend requires the Rust programming language. To install Rust, follow these steps:
 
-1. Visit the Rust website at [https://www.rust-lang.org/](https://www.rust-lang.org/).
-2. Follow the instructions to download and install `rustup`, which is Rust's installation and version management tool.
-3. Once `rustup` is installed, open a terminal and run the following command to install the nightly version of Rust:
-
-```sh
-rustup install nightly
-```
-
-4. Make Rust nightly your default version by running:
-
-```sh
-rustup default nightly
-```
+1. Visit the Rust website at https://www.rust-lang.org/tools/install.
+2. Follow the instructions to download and install Rust using `rustup`, which is Rust's installation and version management tool.
 
 ### Step 2: Install Bend
 
 With Rust set up, you can now install Bend. Open a terminal and run the following commands:
 
 ```sh
-cargo +nightly install hvm
-cargo +nightly install bend-lang
+cargo install hvm
+cargo install bend-lang
 ```
 
 This will install both the HVM2 runtime and Bend language compiler.
